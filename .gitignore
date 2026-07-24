@@ -1,0 +1,3 @@
+temp_sdt_test_ignore/*
+supplementary_data/Supplementary_table7.csv
+supplementary_data/*.joblib
